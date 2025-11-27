@@ -1,4 +1,4 @@
-# Modern DVAE - Advanced Generative Autoencoder Framework
+Advanced Generative Autoencoder Framework
 
 A cutting-edge, high-performance implementation of Denoising Variational Autoencoders featuring state-of-the-art deep learning techniques, efficient training pipelines, and comprehensive experiment tracking. Built with modern PyTorch and PyTorch Lightning for maximum efficiency and scalability.
 
@@ -192,3 +192,4 @@ This project maintains the same Apache 2.0 license as the original implementatio
 **NeuroForge** - An advanced neural architecture synthesis framework for generative modeling.
 
 **Description:** NeuroForge represents the next evolution in generative AI, providing a robust, scalable platform for crafting sophisticated neural architectures. This framework specializes in variational autoencoders with denoising capabilities, featuring cutting-edge optimization techniques, distributed training support, and intelligent experiment management. Designed for researchers and practitioners who demand both performance and elegance in their generative modeling workflows.
+
